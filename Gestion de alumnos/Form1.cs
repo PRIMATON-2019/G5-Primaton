@@ -16,5 +16,10 @@ namespace Gestion_de_alumnos
         {
             InitializeComponent();
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
