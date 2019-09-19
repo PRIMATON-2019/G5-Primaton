@@ -34,8 +34,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.صورة_دائرة1 = new PictureBoxAbouAmmar.صورة_دائرة();
-            ((System.ComponentModel.ISupportInitialize)(this.صورة_دائرة1)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -95,27 +93,13 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "Contraseña";
             // 
-            // صورة_دائرة1
-            // 
-            this.صورة_دائرة1.BackColor = System.Drawing.Color.DarkGray;
-            this.صورة_دائرة1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("صورة_دائرة1.BackgroundImage")));
-            this.صورة_دائرة1.Image = ((System.Drawing.Image)(resources.GetObject("صورة_دائرة1.Image")));
-            this.صورة_دائرة1.Location = new System.Drawing.Point(549, 259);
-            this.صورة_دائرة1.Name = "صورة_دائرة1";
-            this.صورة_دائرة1.Size = new System.Drawing.Size(136, 138);
-            this.صورة_دائرة1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.صورة_دائرة1.TabIndex = 7;
-            this.صورة_دائرة1.TabStop = false;
-            this.صورة_دائرة1.Click += new System.EventHandler(this.صورة_دائرة1_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1174, 808);
-            this.Controls.Add(this.صورة_دائرة1);
+            this.ClientSize = new System.Drawing.Size(931, 529);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
@@ -124,7 +108,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.صورة_دائرة1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,7 +120,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private PictureBoxAbouAmmar.صورة_دائرة صورة_دائرة1;
     }
 }
 
