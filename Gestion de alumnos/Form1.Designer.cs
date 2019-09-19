@@ -106,6 +106,7 @@
             this.صورة_دائرة1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.صورة_دائرة1.TabIndex = 7;
             this.صورة_دائرة1.TabStop = false;
+            this.صورة_دائرة1.Click += new System.EventHandler(this.صورة_دائرة1_Click);
             // 
             // Form1
             // 

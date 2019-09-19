@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PictureBoxAbouAmmar">
+      <HintPath>..\..\..\Nueva carpeta (3)\Nueva carpeta (3)\Nueva carpeta\PictureBoxAbouAmmar.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

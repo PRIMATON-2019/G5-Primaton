@@ -8,3 +8,13 @@ C:\Users\joelt\source\repos\Proyecto Gestion de alumnos\Gestion de alumnos\G5-Pr
 C:\Users\joelt\source\repos\Proyecto Gestion de alumnos\Gestion de alumnos\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
 C:\Users\joelt\source\repos\Proyecto Gestion de alumnos\Gestion de alumnos\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
 C:\Users\joelt\source\repos\Proyecto Gestion de alumnos\Gestion de alumnos\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csprojAssemblyReference.cache
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Form1.resources
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Properties.Resources.resources
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.GenerateResource.cache
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe.config
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe
+C:\Users\Micky\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.pdb
