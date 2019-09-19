@@ -62,6 +62,12 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -69,6 +75,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -95,6 +104,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\36930.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diseno-fondo-abstracto_1297-87.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ddd2f89dd03c4698f1af4f26fb6b01e4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1007179744-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-de-pantalla-azul-y-negro-D_NQ_NP_838245-MLM31612573854_072019-F.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -79,5 +79,45 @@ namespace Gestion_de_alumnos.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ddd2f89dd03c4698f1af4f26fb6b01e4 {
+            get {
+                object obj = ResourceManager.GetObject("ddd2f89dd03c4698f1af4f26fb6b01e4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap diseno_fondo_abstracto_1297_87 {
+            get {
+                object obj = ResourceManager.GetObject("diseno-fondo-abstracto_1297-87", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fondo_de_pantalla_azul_y_negro_D_NQ_NP_838245_MLM31612573854_072019_F {
+            get {
+                object obj = ResourceManager.GetObject("fondo-de-pantalla-azul-y-negro-D_NQ_NP_838245-MLM31612573854_072019-F", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1007179744_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1007179744-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
