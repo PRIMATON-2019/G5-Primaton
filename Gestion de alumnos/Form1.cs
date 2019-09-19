@@ -24,9 +24,6 @@ namespace Gestion_de_alumnos
 
      
 
-        private void صورة_دائرة1_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
