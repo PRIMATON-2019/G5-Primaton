@@ -21,5 +21,11 @@ namespace Gestion_de_alumnos
         {
             this.Close();
         }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
