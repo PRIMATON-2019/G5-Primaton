@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Gestion_de_alumnos
 {
-    public partial class Form2 : Form
+    public partial class FormInc : Form
     {
-        public Form2()
+        public FormInc()
         {
             InitializeComponent();
         }
 
         private void GroupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
         {
 
         }
