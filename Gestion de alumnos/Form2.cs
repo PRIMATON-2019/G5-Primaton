@@ -26,5 +26,19 @@ namespace Gestion_de_alumnos
         {
 
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            Form3 frm = new Form3();
+
+            frm.Show();
+        }
+
+        private void Label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
