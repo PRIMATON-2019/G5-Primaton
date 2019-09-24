@@ -30,3 +30,4 @@ C:\Users\Micky\Documents\GitHub\G5-Primaton1\Gestion de alumnos\obj\Debug\Gestio
 C:\Users\Micky\Documents\GitHub\G5-Primaton1\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
 C:\Users\Micky\Documents\GitHub\G5-Primaton1\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
 C:\Users\Micky\Documents\GitHub\G5-Primaton1\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
+C:\Users\Micky\Documents\GitHub\G5-Primaton1\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Form4.resources
