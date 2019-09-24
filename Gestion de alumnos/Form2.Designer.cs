@@ -64,7 +64,7 @@
             this.button1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(144, 128);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(617, 34);
+            this.button1.Size = new System.Drawing.Size(626, 43);
             this.button1.TabIndex = 2;
             this.button1.Text = "Registrar a algun alumno";
             this.button1.UseVisualStyleBackColor = true;
@@ -75,10 +75,11 @@
             this.button2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(144, 188);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(617, 39);
+            this.button2.Size = new System.Drawing.Size(626, 43);
             this.button2.TabIndex = 3;
             this.button2.Text = "Tomar asistencia";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button3
             // 

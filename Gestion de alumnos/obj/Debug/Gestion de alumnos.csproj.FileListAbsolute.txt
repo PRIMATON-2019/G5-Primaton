@@ -30,3 +30,16 @@ C:\Users\joelt\Desktop\Progamas\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion
 C:\Users\joelt\Desktop\Progamas\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
 C:\Users\joelt\Desktop\Progamas\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
 C:\Users\joelt\Desktop\Progamas\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csprojAssemblyReference.cache
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Form1.resources
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.FormInc.resources
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Form3.resources
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Form4.resources
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion_de_alumnos.Properties.Resources.resources
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.GenerateResource.cache
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.exe
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\obj\Debug\Gestion de alumnos.pdb
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe.config
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.exe
+C:\Users\ezetr\Documents\GitHub\G5-Primaton\Gestion de alumnos\bin\Debug\Gestion de alumnos.pdb
