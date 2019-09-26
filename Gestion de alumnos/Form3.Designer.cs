@@ -209,6 +209,7 @@
             resources.ApplyResources(this.btnseleccionar, "btnseleccionar");
             this.btnseleccionar.Name = "btnseleccionar";
             this.btnseleccionar.UseVisualStyleBackColor = true;
+            this.btnseleccionar.Click += new System.EventHandler(this.Btnseleccionar_Click);
             // 
             // Form3
             // 
