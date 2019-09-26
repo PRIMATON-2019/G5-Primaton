@@ -97,11 +97,7 @@ namespace Gestion_de_alumnos
                         //CADA CASE REPRESENTA UN AÑO Y CON SUS RESPECTIVOS DATOS.
                         //CASE 1:1AÑO, CASE2:2AÑO, ETC..
 
-                        /*Faltan datos por modificar ya que para no perder tiempo 
-                         * copie y pegue y la mayoria de los "alumnos" tienen mismos datos
-                         * que los otros asi que si alguien quiere modificar para que se
-                         * vea mejor, que alguien se tome el trabajo de modificar cada dato 
-                         * de cada alumno*/ 
+                       
 
                         DataRow fila10 = tablaalumno.NewRow();
                         fila10[0] = "Aaron Castro Reyes";
@@ -377,7 +373,7 @@ namespace Gestion_de_alumnos
                         cmboxalumno.ValueMember = "DNI";
                         break;
 
-                        //Modifiquen los datos correspondientes al año
+                        
                 }
             }
         }

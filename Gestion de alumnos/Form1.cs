@@ -28,5 +28,17 @@ namespace Gestion_de_alumnos
 
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void Label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button2_Click_1( object sender, EventArgs e )
+        {
+        }
     }
 }
